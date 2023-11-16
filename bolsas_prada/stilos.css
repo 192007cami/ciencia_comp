@@ -1,0 +1,13 @@
+.footer{
+    background-color:rgb(223, 83, 192);
+    color:rgb(223, 83, 192);
+    align-items: center;
+    text-align: center;
+    position:center;
+    position: absolute;
+}
+.imagem{
+background:url(prada.jpg);
+height:100px;
+background-position: center;
+}
